@@ -2,4 +2,4 @@
 #open2017 #100DaysofCode
 
 
-Daily contribution to the yearof Code2017
+Daily contribution to the year of Code2017
